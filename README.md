@@ -6,7 +6,8 @@
 ## Study Plan
 매주 수요일, 일요일 이전 업로드
 
-날짜|	주차|	챕터(수)/	챕터(일)
+|날짜|	주차|	챕터(수)|	챕터(일)|
+|----|--|------|------|
 1/24 ~ 1/30|	1주차|	Chapter2. Preliminaries| Chapter3. Linear Neural Networks(1)
 1/31 ~ 2/6|	2주차|	Chapter3. Linear Neural Networks(2)|	Chapter4. Multilayer Perceptrons(1)
 2/7 ~ 2/13|	3주차|	Chapter4. Multilayer Perceptrons(2)|	Chapter5. Deep Learning Computation
